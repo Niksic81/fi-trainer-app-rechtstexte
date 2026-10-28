@@ -93,7 +93,7 @@
       <p>(3) Das Angebot richtet sich an Auszubildende, Umschülerinnen und Umschüler sowie Ausbildungsbetriebe. Abweichende Bedingungen der Nutzer gelten nicht.</p>
       <h3>§ 2 Leistungen</h3>
       <p>(1) Die App dient der Vorbereitung auf die IHK-Abschlussprüfungen der Fachinformatiker (Teil 1 sowie Teil 2 in den Fachrichtungen Systemintegration und Anwendungsentwicklung). Je nach Tarif umfasst sie Lektionen, Übungen, Karteikarten, Prüfungssimulationen und einen Lernplan. Der genaue Umfang ergibt sich aus der Tarifübersicht in der App unter „Lizenz“ zum Zeitpunkt des Kaufs.</p>
-      <p>(2) Jede Lizenz gilt für genau eine Prüfung (AP Teil 1, AP Teil 2 Systemintegration oder AP Teil 2 Anwendungsentwicklung). Die Prüfung wählst du beim ersten Start; bezahlte Tarife kaufst du jeweils für diese Prüfung. Bei AP Teil 2 ist die betriebliche Projektarbeit enthalten.</p>
+      <p>(2) Jede Lizenz gilt für genau eine Prüfung (AP Teil 1, AP Teil 2 Systemintegration oder AP Teil 2 Anwendungsentwicklung). Die Prüfung wählst du beim ersten Start; bezahlte Tarife kaufst du jeweils für diese Prüfung. Bei AP Teil 2 ist in Standard, Premium und dem Prüfungspaket die betriebliche Projektarbeit enthalten (nicht in der kostenlosen Lizenz).</p>
       <p>(3) Wir schulden keinen Prüfungserfolg. Die App ersetzt nicht die Ausbildung im Betrieb und in der Berufsschule.</p>
       <h3>§ 3 Nutzung ohne Konto</h3>
       <p>(1) Für die Nutzung ist kein Konto nötig. Dein Lernstand und deine Einstellungen werden nur auf deinem Gerät gespeichert. Für die Sicherung dieser Daten (z. B. über ein iPhone- oder iCloud-Backup) bist du selbst verantwortlich; wir können verlorene Daten nicht wiederherstellen.</p>
